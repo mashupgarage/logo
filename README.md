@@ -84,6 +84,41 @@ Mashup Garage logos
 
 </table>
 
+### Vertical
+
+<table>
+
+<tr>
+<th>3A</th>
+<td><img src='dist/png/MG_3A - Vertical, color.png' width='200'></td>
+<td>Vertical, color</td>
+</tr>
+
+<tr></tr>
+
+<tr>
+<th>3B</th>
+<td><img src='dist/png/MG_3B - Vertical, mono.png' width='200'></td>
+<td>Vertical, mono</td>
+</tr>
+
+<tr>
+<th>3C</th>
+<td><img src='dist/png/MG_3C - Vertical, invert.png' width='200'></td>
+<td>Vertical, invert</td>
+</tr>
+
+
+<tr></tr>
+
+<tr>
+<th>3D</th>
+<td><img src='dist/png/MG_3D - Vertical, silhouette.png' width='200'></td>
+<td>Vertical, silhouette</td>
+</tr>
+
+</table>
+
 ## History
 
 #### v2017
