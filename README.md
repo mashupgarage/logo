@@ -1,6 +1,6 @@
 <br><br>
 
-<p align='center'><img src='dist/png/MG_1A - Horiz, color.png' width=300></p>
+<p align='center'><img src='dist/png/MG_1A - Horiz, color.png' width=500></p>
 
 <br><br>
 
@@ -9,9 +9,14 @@ Mashup Garage logos
 
 > Logos for Mashup Garage, 2017 edition
 
-[PNG](dist/png/) and [SVG](dist/svg/) formats available.
+Download:
 
-## PNG
+- **[Download all logos](./logo.zip)** (zip)
+ - [PNG](dist/png/) and [SVG](dist/svg/) formats
+
+## Logos
+
+Please select the proper logos to use, and don't modify them! These aren't just recolored, each variation had slight adjustments to make them work against dark or light backgrounds better.
 
 ### Horizontal
 
