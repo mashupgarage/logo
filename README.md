@@ -1,6 +1,13 @@
 <br><br>
 
 <p align='center'><img src='dist/png/MG_1A - Horiz, color.png' width=500></p>
+<p align='center'>⚡️
+<strong>Download: <a href='logo.zip'>all logos</a></strong> (zip)
+⚡️
+View: <a href='dist/png/'>png</a>
+·
+<a href='dist/svg/'>svg</a>
+⚡️</p>
 
 <br><br>
 
@@ -8,11 +15,6 @@ Mashup Garage logos
 ===================
 
 > Logos for Mashup Garage, 2017 edition
-
-Download:
-
-- **[Download all logos](./logo.zip)** (zip)
- - [PNG](dist/png/) and [SVG](dist/svg/) formats
 
 ## Logos
 
